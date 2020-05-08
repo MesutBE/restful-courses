@@ -41,6 +41,6 @@ A user can use DELETE request and delete an input then update a file called `db.
 * Refactor `DELETE` Request logic.
 * Create a function that can delete an input & update a Json file.
 
-## 6. Complete README.md
+## 5. Complete README.md
 
 * Complete README.md for more details about the project.
