@@ -25,6 +25,7 @@ This is a fullstack app! This project first build RESTful APIs with Node and Exp
 Project is created with:
 
 - JScript ES6
+- node fs, fs.readFileSync, fs.writeFile
 - Node Express
 - Nodemon
 - Joi
